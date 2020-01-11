@@ -1,4 +1,4 @@
-#BT_SCRIPTS#
+# BT_SCRIPTS
 
 ## Description ##
 
