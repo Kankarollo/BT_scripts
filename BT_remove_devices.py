@@ -27,7 +27,6 @@ def main():
 
 if __name__ == "__main__":
     logging.basicConfig(filename="file.log",filemode='a+',level=logging.INFO, format='%(asctime)s %(message)s')
-    # logger = logging.getLogger("Bluetooth remove logger")
     logging.info("BT_remove_device executing...")
     mac_address = [""]
     main()
